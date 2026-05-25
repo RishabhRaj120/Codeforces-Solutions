@@ -76,10 +76,41 @@ Codeforces-Solutions/
 
 ---
 
+---
+
+## Grind Dashboard
+
 <div align="center">
 
-### Practice. Fail. Debug. Learn. Repeat.
+<table>
+  <tr>
+    <td align="center"><b>Current Focus</b></td>
+    <td align="center"><b>Main Language</b></td>
+    <td align="center"><b>Strategy</b></td>
+    <td align="center"><b>Goal</b></td>
+  </tr>
+  <tr>
+    <td align="center">Binary Search</td>
+    <td align="center">C++</td>
+    <td align="center">Upsolve + Revise</td>
+    <td align="center">Reach higher ratings step by step</td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=92FE9D&center=true&vCenter=true&width=650&lines=Accepted+is+not+luck.;Every+wrong+answer+teaches+something.;Consistency+beats+random+motivation.;One+problem+closer+to+mastery." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Practice.+Fail.+Debug.+Learn.+Repeat.;Building+logic+one+submission+at+a+time.;See+you+at+the+next+Accepted." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FFFFFF&height=120&section=footer" />
 
 </div>
