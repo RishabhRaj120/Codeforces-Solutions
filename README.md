@@ -76,6 +76,8 @@ Codeforces-Solutions/
 
 ---
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=92FE9D&center=true&vCenter=true&width=650&lines=Accepted+is+not+luck.;Every+wrong+answer+teaches+something.;Consistency+beats+random+motivation.;One+problem+closer+to+mastery." />
 
 </div>
