@@ -76,29 +76,6 @@ Codeforces-Solutions/
 
 ---
 
----
-
-## Grind Dashboard
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Current Focus</b></td>
-    <td align="center"><b>Main Language</b></td>
-    <td align="center"><b>Strategy</b></td>
-    <td align="center"><b>Goal</b></td>
-  </tr>
-  <tr>
-    <td align="center">Binary Search</td>
-    <td align="center">C++</td>
-    <td align="center">Upsolve + Revise</td>
-    <td align="center">Reach higher ratings step by step</td>
-  </tr>
-</table>
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=92FE9D&center=true&vCenter=true&width=650&lines=Accepted+is+not+luck.;Every+wrong+answer+teaches+something.;Consistency+beats+random+motivation.;One+problem+closer+to+mastery." />
 
 </div>
