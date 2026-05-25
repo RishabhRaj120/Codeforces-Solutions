@@ -57,8 +57,8 @@ Codeforces-Solutions/
 |    900 | Started     |
 |   1000 | Started     |
 |   1100 | Started     |
-|   1200 | Coming soon |
-|   1300 | Coming soon |
+|   1200 | Started     |
+|   1300 | Started     |
 |   1400 | Coming soon |
 |   1500 | Coming soon |
 |   1600 | Coming soon |
@@ -68,51 +68,11 @@ Codeforces-Solutions/
 
 ---
 
-## Solutions Index
-
-| Problem                  | Rating | Topic         | Solution                                  |
-| ------------------------ | -----: | ------------- | ----------------------------------------- |
-| 706B - Interesting Drink |   1100 | Binary Search | [View](./1100/706B_Interesting_Drink.cpp) |
-
----
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
-
----
-
-## My Competitive Programming Rules
-
-- Write clean and readable code.
-- Understand the logic before submitting.
-- Upsolve after contests.
-- Revisit older problems regularly.
-- Prefer learning patterns over memorizing answers.
-
----
-
-## Useful Topics I Practice
-
-<details>
-<summary>Click to expand</summary>
-
-<br>
-
-- Binary Search
-- Greedy
-- Sorting
-- Two Pointers
-- Prefix Sum
-- Number Theory
-- Dynamic Programming
-- Graphs
-- Trees
-- Bit Manipulation
-
-</details>
 
 ---
 
